@@ -1,0 +1,53 @@
+<template>
+  <div style="display: flex; flex-direction: column">
+    <iframe
+      src="https://api-starevaluator.com/micro-button/1?lang=de&mode=clair"
+      frameborder="0"
+      width="100%"
+      scrolling="no"
+    ></iframe>
+    <iframe
+      src="https://api-starevaluator.com/micro-starscore/1?lang=en&mode=clair"
+      frameborder="0"
+      width="100%"
+      scrolling="no"
+    ></iframe>
+    <iframe
+      src="https://api-starevaluator.com/mini/1?lang=es&mode=clair"
+      frameborder="0"
+      width="100%"
+      scrolling="no"
+    ></iframe>
+    <iframe
+      src="https://api-starevaluator.com/starter/1?lang=fr&mode=clair"
+      frameborder="0"
+      width="100%"
+      scrolling="no"
+    ></iframe>
+    <iframe
+      src="https://api-starevaluator.com/micro-combo/1?lang=it&mode=clair"
+      frameborder="0"
+      width="100%"
+      scrolling="no"
+    ></iframe>
+    <iframe
+      src="https://api-starevaluator.com/micro-star/1?lang=nl&mode=clair"
+      frameborder="0"
+      width="100%"
+      scrolling="no"
+    ></iframe>
+    <iframe
+      src="https://api-starevaluator.com/horizontal/1?lang=pt&mode=clair"
+      frameborder="0"
+      width="100%"
+      scrolling="no"
+    ></iframe>
+    <iframe
+      src="https://api-starevaluator.com/micro-review-count/1?lang=uk&mode=clair"
+      frameborder="0"
+      width="100%"
+      scrolling="no"
+    ></iframe>
+  </div>
+</template>
+<script setup lang="ts"></script>
