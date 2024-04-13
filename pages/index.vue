@@ -5,6 +5,7 @@
       frameborder="0"
       data-style-id="widget-micro-combo"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
 
     <iframe
@@ -12,48 +13,56 @@
       frameborder="0"
       width="100%"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
     <iframe
       src="https://api-starevaluator.com/micro-starscore/1?lang=en&mode=clair"
       frameborder="0"
       width="100%"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
     <iframe
       src="https://api-starevaluator.com/mini/1?lang=es&mode=clair"
       frameborder="0"
       width="100%"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
     <iframe
       src="https://api-starevaluator.com/starter/1?lang=fr&mode=clair"
       frameborder="0"
       width="100%"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
     <iframe
       src="https://api-starevaluator.com/micro-combo/1?lang=it&mode=clair"
       frameborder="0"
       width="100%"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
     <iframe
       src="https://api-starevaluator.com/micro-star/1?lang=nl&mode=clair"
       frameborder="0"
       width="100%"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
     <iframe
       src="https://api-starevaluator.com/horizontal/1?lang=pt&mode=clair"
       frameborder="0"
       width="100%"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
     <iframe
       src="https://api-starevaluator.com/micro-review-count/1?lang=uk&mode=clair"
       frameborder="0"
       width="100%"
       scrolling="no"
+      id="iframe-star-evaluator"
     ></iframe>
   </div>
 </template>
