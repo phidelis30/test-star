@@ -22,6 +22,7 @@ export default defineNuxtConfig({
           content: "starevaluator-verified_yizerkkhjKJHKJoi",
         },
       ],
+      htmlAttrs: { lang: "fr-FR" },
     },
   },
 });
