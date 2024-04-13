@@ -3,6 +3,19 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
+      link: [
+        {
+          rel: "stylesheet",
+          href: "https://api-starevaluator.com/widget-star-evaluator",
+        },
+      ],
+      script: [
+        {
+          src: "https://api-starevaluator.com/widget-star-evaluator-js",
+          type: "text/javascript",
+          defer: true,
+        },
+      ],
       meta: [
         {
           name: "starevaluator_verified",

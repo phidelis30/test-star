@@ -1,5 +1,18 @@
 <template>
+  <Head>
+    <link
+      rel="stylesheet"
+      href="https://api-starevaluator.com/widget-star-evaluator"
+    />
+  </Head>
   <div style="display: flex; flex-direction: column">
+    <iframe
+      src="https://api-starevaluator.com/micro-combo/12?lang=en&mode=clair"
+      frameborder="0"
+      data-style-id="widget-micro-combo"
+      scrolling="no"
+    ></iframe>
+
     <iframe
       src="https://api-starevaluator.com/micro-button/1?lang=de&mode=clair"
       frameborder="0"
