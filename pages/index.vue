@@ -8,7 +8,7 @@
       id="iframe-star-evaluator"
     ></iframe>
 
-    <iframe
+    <!-- <iframe
       src="https://api-starevaluator.com/micro-button/1?lang=de&mode=clair"
       frameborder="0"
       width="100%"
@@ -63,7 +63,7 @@
       width="100%"
       scrolling="no"
       id="iframe-star-evaluator"
-    ></iframe>
+    ></iframe> -->
   </div>
 </template>
 <script setup lang="ts"></script>
