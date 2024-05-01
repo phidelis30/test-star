@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     head: {
       script: [
         {
-          src: "http://starevaluator.com/assets/js/widget-micro-button.js",
+          src: "https://res.cloudinary.com/rahato-mg/raw/upload/v1714565076/widget-micro-button_dbev2n.js",
           type: "text/javascript",
           defer: true,
         },

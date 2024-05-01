@@ -7,62 +7,6 @@
       data-navigator="true"
       data-mode="light"
     ></div>
-    <div
-      id="widget-micro-combo"
-      data-id="U2FsdGVkX1+9VyChEDV5KVn7RbFW0tMThl4uAuNIPcArO0XgiNKYrVqkpzxjTjCC"
-      data-lang="es"
-      data-navigator="true"
-      data-mode="light"
-    ></div>
-    <div
-      id="widget-micro-star-score"
-      data-id="U2FsdGVkX1+9VyChEDV5KVn7RbFW0tMThl4uAuNIPcArO0XgiNKYrVqkpzxjTjCC"
-      data-lang="en"
-      data-navigator="true"
-      data-mode="light"
-    ></div>
-    <div
-      id="widget-mini"
-      data-id="U2FsdGVkX1+9VyChEDV5KVn7RbFW0tMThl4uAuNIPcArO0XgiNKYrVqkpzxjTjCC"
-      data-lang="fr"
-      data-navigator="true"
-      data-mode="light"
-    ></div>
-    <div
-      id="widget-starter"
-      data-id="U2FsdGVkX1+9VyChEDV5KVn7RbFW0tMThl4uAuNIPcArO0XgiNKYrVqkpzxjTjCC"
-      data-lang="it"
-      data-navigator="true"
-      data-mode="light"
-    ></div>
-    <div
-      id="widget-micro-star"
-      data-id="U2FsdGVkX1+9VyChEDV5KVn7RbFW0tMThl4uAuNIPcArO0XgiNKYrVqkpzxjTjCC"
-      data-lang="nl"
-      data-navigator="true"
-      data-mode="light"
-    ></div>
-    <div
-      id="widget-horizontal"
-      data-id="U2FsdGVkX1+9VyChEDV5KVn7RbFW0tMThl4uAuNIPcArO0XgiNKYrVqkpzxjTjCC"
-      data-lang="pt"
-      data-navigator="true"
-      data-mode="light"
-    ></div>
-    <div
-      id="widget-micro-review-count"
-      data-id="U2FsdGVkX1+9VyChEDV5KVn7RbFW0tMThl4uAuNIPcArO0XgiNKYrVqkpzxjTjCC"
-      data-lang="fr"
-      data-navigator="true"
-      data-mode="light"
-    ></div>
-    <div
-      id="widget-star-note"
-      data-id="U2FsdGVkX1+9VyChEDV5KVn7RbFW0tMThl4uAuNIPcArO0XgiNKYrVqkpzxjTjCC"
-      data-lang="en"
-      data-navigator="true"
-      data-mode="light"
-    ></div>
   </div>
 </template>
 <script setup lang="ts"></script>
