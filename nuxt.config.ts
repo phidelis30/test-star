@@ -10,7 +10,7 @@ export default defineNuxtConfig({
           defer: true,
         },
         {
-          src: "http://starevaluator.com/assets/js/widget-micro-combo.j",
+          src: "http://starevaluator.com/assets/js/widget-micro-combo.js",
           type: "text/javascript",
           defer: true,
         },
