@@ -9,46 +9,6 @@ export default defineNuxtConfig({
           type: "text/javascript",
           defer: true,
         },
-        {
-          src: "http://starevaluator.com/assets/js/widget-micro-combo.js",
-          type: "text/javascript",
-          defer: true,
-        },
-        {
-          src: "http://starevaluator.com/assets/js/widget-micro-star-score.js",
-          type: "text/javascript",
-          defer: true,
-        },
-        {
-          src: "http://starevaluator.com/assets/js/widget-mini.js",
-          type: "text/javascript",
-          defer: true,
-        },
-        {
-          src: "http://starevaluator.com/assets/js/widget-starter.js",
-          type: "text/javascript",
-          defer: true,
-        },
-        {
-          src: "http://starevaluator.com/assets/js/widget-micro-star.js",
-          type: "text/javascript",
-          defer: true,
-        },
-        {
-          src: "http://starevaluator.com/assets/js/widget-horizontal.js",
-          type: "text/javascript",
-          defer: true,
-        },
-        {
-          src: "http://starevaluator.com/assets/js/widget-micro-review-count.js",
-          type: "text/javascript",
-          defer: true,
-        },
-        {
-          src: "http://starevaluator.com/assets/js/widget-star-note.js",
-          type: "text/javascript",
-          defer: true,
-        },
       ],
       meta: [
         {
